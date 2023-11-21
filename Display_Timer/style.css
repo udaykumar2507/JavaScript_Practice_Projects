@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+body{
+    background-image:url(Clock.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+   
+}
+#h11{
+   
+    position :relative;
+    top:250px;
+    left:50px;
+  
+    color:whitesmoke;
+    margin-bottom:30px;
+}
+#h12{ 
+  
+    position :relative;
+    top:250px;
+    left:50px;
+   
+    color:whitesmoke;
+}
