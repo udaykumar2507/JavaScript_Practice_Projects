@@ -1,0 +1,17 @@
+*{
+    margin:0;
+}
+body{
+    background-image:url(Christamas.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    display: flex;
+    place-items: center;
+    justify-content: center;
+    height:100vh;
+    color:aliceblue;
+    font-size:34px;
+    border:5px solid rgb(0, 0, 0);
+}
