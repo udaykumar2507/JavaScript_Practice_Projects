@@ -1,0 +1,39 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+body{
+    background-color:#36454f;
+}
+.img_container{
+    border:0.7rem solid rgb(250, 226, 7);
+    width:60%;
+    height:70vh;
+    position:relative;
+    margin:5rem auto;
+    background:url(img/Aot.jpg) ;
+    background-size: cover;
+    background-position: center;
+    box-shadow: 10px 10px 35px rgba(0,0,0,0.6);
+}
+.leftbtn{
+    position:absolute;
+    top:50%;
+    left:0;
+    padding:15px;
+    color: black;
+    background-color:lightblue;
+    font-size:2rem;
+    transform: translate(-50%,-50%);
+}
+.rightbut{
+    position:absolute;
+    top:50%;
+    right:0;
+    padding:15px;
+    color: black;
+    background-color:lightblue;
+    font-size:2rem;
+    transform: translate(50%,-50%);
+}
