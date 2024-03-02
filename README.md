@@ -9,3 +9,6 @@ https://65dcd557ffbd6f0dd495e82b--luxury-praline-e251c2.netlify.app/
 <br>
 <h3>Weather App</h3>
 https://65e0b79003b95527105ae196--gleaming-taiyaki-3a2a01.netlify.app/
+<br>
+<h3> Marvel Quiz App</h3>
+https://65e38436ffad92f80618015c--dreamy-bombolone-c554a0.netlify.app/
