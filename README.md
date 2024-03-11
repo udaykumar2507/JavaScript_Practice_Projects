@@ -15,3 +15,6 @@ https://65e38436ffad92f80618015c--dreamy-bombolone-c554a0.netlify.app/
 <br>
 <h3>Quote Generator</h3>
 https://65ed3ff7f0eed826844a2d76--chipper-brioche-a4bf56.netlify.app/
+<br>
+<h3>QR-Code Generator</h3>
+https://stirring-jelly-33fc0c.netlify.app/
