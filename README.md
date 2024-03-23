@@ -21,3 +21,6 @@ https://stirring-jelly-33fc0c.netlify.app/
 <br>
 <h3>Music Player</h3>
 https://tourmaline-torte-8182c4.netlify.app
+<br>
+<h3>Text to Speech</h3>
+https://65ff0704011ef51d27473319--boisterous-crisp-52a35d.netlify.app/
